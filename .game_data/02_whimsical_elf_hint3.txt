@@ -1,0 +1,6 @@
+After having resolved the merge conflict, you must add and commit the file
+'castle'. Also watch for the line break at the end of that file.
+
+git add castle
+git commit -m"merged the work on castle"
+
