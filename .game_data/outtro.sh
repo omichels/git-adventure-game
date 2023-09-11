@@ -271,7 +271,7 @@ draw_rays() {
 
 }
 
-set_fb_rgb 0 0 0       # Clear background to black
+set_fg_rgb 0 0 0       # Clear background to black
 clear                  # blank the screen
 
 cx=$(center_x)

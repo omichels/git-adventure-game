@@ -1,0 +1,6 @@
+
+You need to apply the necessary cherry-picks to read
+the shard.txt file
+
+Now add the name (not backwards!) to the talisman and
+use the talisman like before.
