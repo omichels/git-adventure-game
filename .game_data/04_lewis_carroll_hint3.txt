@@ -1,0 +1,2 @@
+Once the poem is fully restored, you have to add it to
+the git repo and commit it.
