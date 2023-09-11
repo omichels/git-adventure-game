@@ -1,0 +1,3 @@
+Use 'git blame' to find the name of that thief.
+
+Finally put the thief's name in the talisman.
